@@ -8,5 +8,5 @@ This year will be a blast!
 ### Overview
 
 ### Syllabus
-
+Notes
 ### Resources
