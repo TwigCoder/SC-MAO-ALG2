@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/mu-alpha-theta-algebra-ii/homepage/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-# Strawberry Crest High School Mu Alpha Theta: Algebra II
+# Strawberry Crest Mu Alpha Theta: Algebra II
 
 ### Overview
 
