@@ -4,6 +4,7 @@
 
 # Welcome to Mu Alpha Theta
 This year will be a blast!
+
 ### Overview
 
 ### Syllabus
