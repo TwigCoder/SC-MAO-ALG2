@@ -83,11 +83,14 @@
 
 
 ### Calendar
-- Meetings every Monday.
+- General meetings every Monday.
+- Team meeting every ??.
+- Homework/Test Reviews every ??. 
 - Placement Test: October 31
 
-### Resources [COMING SOON]
-- [Regional and State Test](https://famat.pythonanywhere.com/)
+### Resources [More Coming Soon]
+- [Regional and State Tests](https://famat.pythonanywhere.com/)
 - [Previous Regional Tests](https://www.famat.doralmao.com/?year=&level=Algebra+II&submit=Search)
+- [National Tests and Answer Keys](https://mualphatheta.org/past_tests)
 - [The Book Of Math Formulas And Strategies](https://drive.google.com/file/d/1WluTIscnUqCXouVfoj6edc23aupyGjAL/view)
 - [Art of Problem Solving - Alcumus](https://artofproblemsolving.com/alcumus)
